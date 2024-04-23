@@ -1,5 +1,4 @@
 ####################
-#https://t.me/ClairePython
 ####################
 import socket
 import sys
@@ -23,7 +22,7 @@ from time import *
 from time import sleep
 #from datatime import datatime
 os.system("clear")
-os.system("figlet C L A I R E")
+os.system("figlet Mr elkabos")
 print(' ')
 print ('\033[1;31m')
 print ("========================================")
