@@ -1,12 +1,11 @@
 
 
-git clone https://github.com/claire035/Port-Scanning.git
+git clone https://github.com/Mr-Dark-elkabos12/Mr-port.git
 
-cd Port-Scanning
+cd Mr-port
 
 python Port-Scanning.py
 
-Thanks 
-
+ 
 
 Telegram @Mr_Dark_elkabos
